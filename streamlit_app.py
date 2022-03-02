@@ -1,6 +1,6 @@
 from pyngrok import ngrok
 
-%%writefile app.py
+
 import streamlit as st
 import tensorflow as tf
 
